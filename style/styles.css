@@ -1,0 +1,127 @@
+BODY {
+	BACKGROUND: url(../images/wt_ba_body.jpg) #d9e4ee no-repeat left top
+}
+TABLE.yborder {
+	BACKGROUND-COLOR: #5789bf
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #104177; FONT-FAMILY: verdana,arial,helvetica
+}
+TD.top {
+	BACKGROUND: url(../images/wt_ba_topleft2.gif) #5789bf no-repeat left top
+}
+TD.tdAlt {
+	LINE-HEIGHT: 16px
+}
+TH {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; COLOR: #104177; FONT-STYLE: oblique; FONT-FAMILY: 'Lucida Handwriting', 'Trebuchet MS', arial, verdana, helvetica
+}
+TH.thAlt {
+	COLOR: #ffffff; BACKGROUND-COLOR: #5789bf
+}
+TH.none {
+	COLOR: #104177; BACKGROUND-COLOR: #ffffff
+}
+IMG {
+	BORDER-LEFT-COLOR: #104177; BORDER-BOTTOM-COLOR: #104177; BORDER-TOP-COLOR: #104177; BORDER-RIGHT-COLOR: #104177
+}
+A:link {
+	FONT-WEIGHT: bold; COLOR: #104177; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-WEIGHT: bold; COLOR: #104177; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: #104177; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: #5789bf; TEXT-DECORATION: none
+}
+A.nav:link {
+	COLOR: #104177; FONT-FAMILY: Trebuchet MS,arial,helvetica; TEXT-DECORATION: none
+}
+A.nav:active {
+	COLOR: #104177; FONT-FAMILY: Trebuchet MS,arial,helvetica; TEXT-DECORATION: none
+}
+A.nav:visited {
+	COLOR: #104177; FONT-FAMILY: Trebuchet MS,arial,helvetica; TEXT-DECORATION: none
+}
+A.nav:hover {
+	COLOR: #5789bf; FONT-FAMILY: Trebuchet MS,arial,helvetica; TEXT-DECORATION: underline
+}
+A.navAct:link {
+	COLOR: #5789bf; FONT-STYLE: oblique; FONT-FAMILY: Trebuchet MS,arial,helvetica; TEXT-DECORATION: none
+}
+A.navAct:active {
+	COLOR: #5789bf; FONT-STYLE: oblique; FONT-FAMILY: Trebuchet MS,arial,helvetica; TEXT-DECORATION: none
+}
+A.navAct:visited {
+	COLOR: #5789bf; FONT-STYLE: oblique; FONT-FAMILY: Trebuchet MS,arial,helvetica; TEXT-DECORATION: none
+}
+A.navAct:hover {
+	COLOR: #104177; FONT-STYLE: oblique; FONT-FAMILY: Trebuchet MS,arial,helvetica; TEXT-DECORATION: underline
+}
+FONT.date { FONT-SIZE: 12px; COLOR: #336699; LINE-HEIGHT: 16px; FONT-FAMILY: georgia, sans-serif }
+
+FONT.author { FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #336699; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, sans-serif }
+
+FONT.time { FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #336699; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, sans-serif }
+
+FONT.comment { FONT-SIZE: 10px; TEXT-TRANSFORM: lowercase; COLOR: #336699; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, sans-serif }
+INPUT {
+	FONT-SIZE: 11px; COLOR: #104177; FONT-FAMILY: Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #d9e4ee
+}
+INPUT.button {
+	FONT-WEIGHT: bold; CURSOR: hand; COLOR: #104177; BACKGROUND-COLOR: #d9e4ee
+}
+INPUT.button:hover {
+	FONT-WEIGHT: bold; CURSOR: hand; COLOR: #d9e4ee; BACKGROUND-COLOR: #104177
+}
+SELECT {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #104177; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #d9e4ee
+}
+TEXTAREA {
+	FONT-SIZE: 11px; COLOR: #104177; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #d9e4ee
+}
+.red {
+	COLOR: #993300
+}
+.white {
+	COLOR: #ffffff
+}
+.bgWhite {
+	BACKGROUND-COLOR: #ffffff
+}
+.bgLcolor {
+	BACKGROUND-COLOR: #d9e4ee
+}
+.bgColor {
+	BACKGROUND-COLOR: #5789bf
+}
+.bgDcolor {
+	BACKGROUND-COLOR: #104177
+}
+.err {
+	FONT-WEIGHT: bold; COLOR: #990000
+}
+.title {
+	FONT-SIZE: 16px
+}
+.smallText {
+	FONT-SIZE: 10px
+}
+.smallTextwhite {
+	FONT-SIZE: 10px; COLOR: #ffffff
+}
+.siteTitle {
+	FONT-SIZE: 26px; COLOR: #ffffff; FONT-FAMILY: Monotype Corsiva,Trebuchet MS,verdana,arial,helvetica
+}
+.copyright
+{
+   FONT-SIZE: 12px; 
+   COLOR: #666666; 
+   LINE-HEIGHT: 18px; 
+   FONT-FAMILY: georgia, verdana, arial;
+   padding-top: 5px;
+   text-align: center;
+}
